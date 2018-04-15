@@ -1,8 +1,14 @@
 .padForty{
   padding:40px;
 }
+.padEighty{
+  padding:80px;
+}
+.padThirty{
+  padding:30px;
+}
 .border{
-  border: 3px double black;
+  border: 3px double white;
 }
 .yellow{
   background-color: yellow;
